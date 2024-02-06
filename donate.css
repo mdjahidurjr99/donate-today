@@ -7,6 +7,7 @@
     border-radius: 5px;
     background: #FF5959;
     color: #FFFFFF;
+    font-size: 20px;
     border: none;
     padding: 16px 12px;
     justify-content: center;
@@ -122,4 +123,24 @@ hr{
     box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.2);
     margin-right: 24px;
     padding: 64px 22px 54px 23px;
+}
+.contribute{
+    display: flex;
+    
+
+}
+.contribute-title{
+    margin: 30px 94px 30px 0;
+    width: 490px;
+}
+
+.contribute-image{
+    max-width: 450px;
+    height: 480px;
+    border-radius: 10px;
+
+}
+.contribute-title2{
+    margin: 0px 30px 30px 94px;
+    width: 490px;
 }
